@@ -1,0 +1,12 @@
+.container-fluid {
+    background-color: black;
+}
+
+.testo {
+    color: blue;
+    font-size: 5vh;
+}
+
+.row {
+    height: 20vh;
+}
